@@ -1,3 +1,6 @@
+test_files/
+2021-11-08/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
